@@ -4,9 +4,9 @@ PRODID:-//Custis/Modeus//Schedule Calendar App//RU
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:0b0de2c6-9468-4f4c-98ad-e5eac20fe735
-SEQUENCE:0
+SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260407T195422
+DTSTAMP;TZID=Asia/Yekaterinburg:20260409T193800
 DTSTART;TZID=Asia/Yekaterinburg:20260408T083000
 DTEND;TZID=Asia/Yekaterinburg:20260408T114500
 SUMMARY:Разработка программных приложений Часть 2 / Аутентификация пользователей / РПП П-04
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 UID:0f2483c7-1ab5-4597-b5e5-367ed8fe98d9
 SEQUENCE:2
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260407T195422
+DTSTAMP;TZID=Asia/Yekaterinburg:20260409T193800
 DTSTART;TZID=Asia/Yekaterinburg:20260407T120500
 DTEND;TZID=Asia/Yekaterinburg:20260407T133500
 SUMMARY:Разработка программных приложений Часть 2 / Основы синтаксиса и базовых возможностей Vue JS / РПП Л-03
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 UID:37bd0605-9115-4b5e-914a-5ae054294f02
 SEQUENCE:2
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260407T195422
+DTSTAMP;TZID=Asia/Yekaterinburg:20260409T193800
 DTSTART;TZID=Asia/Yekaterinburg:20260406T155500
 DTEND;TZID=Asia/Yekaterinburg:20260406T191000
 SUMMARY:Методы искусственного интеллекта. Модуль 1 / Сверточные нейронные сети / МИИ Л-01
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:40397baf-0390-4d18-9716-d4f76455caa4
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260407T195422
+DTSTAMP;TZID=Asia/Yekaterinburg:20260409T193800
 DTSTART;TZID=Asia/Yekaterinburg:20260410T140500
 DTEND;TZID=Asia/Yekaterinburg:20260410T153500
 SUMMARY:Физическая культура и спорт: элективные курсы по видам спорта / Соревновательная практика / Ф.К. и С. Э.К. 6 П-01
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 UID:5bfde511-1bcc-4a65-8e85-5ad21fc2a317
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260407T195422
+DTSTAMP;TZID=Asia/Yekaterinburg:20260409T193800
 DTSTART;TZID=Asia/Yekaterinburg:20260407T155500
 DTEND;TZID=Asia/Yekaterinburg:20260407T191000
 SUMMARY:Основы системной и программной инженерии (Модуль 2) / Программирование на основе тестирования / ОСиПИ-2 П-02
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 UID:9bded406-967e-4eda-a75f-73df46e7f6da
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260407T195422
+DTSTAMP;TZID=Asia/Yekaterinburg:20260409T193800
 DTSTART;TZID=Asia/Yekaterinburg:20260410T120500
 DTEND;TZID=Asia/Yekaterinburg:20260410T133500
 SUMMARY:Физическая культура и спорт: элективные курсы по видам спорта / Соревновательная практика / Ф.К. и С. Э.К. 6 П-01
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 UID:a518f31d-aca5-4f33-80ae-d9597bc9cc4b
 SEQUENCE:2
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260407T195422
+DTSTAMP;TZID=Asia/Yekaterinburg:20260409T193800
 DTSTART;TZID=Asia/Yekaterinburg:20260410T155500
 DTEND;TZID=Asia/Yekaterinburg:20260410T191000
 SUMMARY:Мобильная разработка (Модуль 1) / View-элементы / МобР-1 Л-02
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 UID:aee35e79-35f6-4f51-97f0-f44f55eac5ee
 SEQUENCE:2
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260407T195422
+DTSTAMP;TZID=Asia/Yekaterinburg:20260409T193800
 DTSTART;TZID=Asia/Yekaterinburg:20260407T140500
 DTEND;TZID=Asia/Yekaterinburg:20260407T153500
 SUMMARY:Основы системной и программной инженерии (Модуль 2) / Модель реализации / ОСиПИ-2 Л-01
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 UID:416a8d1d-30b9-4750-abaf-b34f7a001d94
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260407T195427
+DTSTAMP;TZID=Asia/Yekaterinburg:20260409T193804
 DTSTART;TZID=Asia/Yekaterinburg:20260414T120500
 DTEND;TZID=Asia/Yekaterinburg:20260414T133500
 SUMMARY:Разработка программных приложений Часть 2 / Взаимодействие между компонентами Vue JS / РПП Л-03
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 UID:5b38fd57-e128-4121-965b-d3c3d3422c5e
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260407T195427
+DTSTAMP;TZID=Asia/Yekaterinburg:20260409T193804
 DTSTART;TZID=Asia/Yekaterinburg:20260413T155500
 DTEND;TZID=Asia/Yekaterinburg:20260413T191000
 SUMMARY:Методы искусственного интеллекта. Модуль 1 / Построение и исследование сверточных нейросетей / МИИ П-03
@@ -136,7 +136,7 @@ BEGIN:VEVENT
 UID:829e9588-6b55-40cc-b2d7-29c3b8497748
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260407T195427
+DTSTAMP;TZID=Asia/Yekaterinburg:20260409T193804
 DTSTART;TZID=Asia/Yekaterinburg:20260415T083000
 DTEND;TZID=Asia/Yekaterinburg:20260415T114500
 SUMMARY:Разработка программных приложений Часть 2 / Кэширование / РПП П-04
@@ -149,7 +149,7 @@ BEGIN:VEVENT
 UID:874362fe-8f2f-4668-90e1-1bca48658df4
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260407T195427
+DTSTAMP;TZID=Asia/Yekaterinburg:20260409T193804
 DTSTART;TZID=Asia/Yekaterinburg:20260418T155500
 DTEND;TZID=Asia/Yekaterinburg:20260418T191000
 SUMMARY:Мобильная разработка (Модуль 1) / Обработчики событий / МобР-1 П-05
@@ -162,7 +162,7 @@ BEGIN:VEVENT
 UID:97351521-2812-4e10-9fd0-eb030a004099
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260407T195427
+DTSTAMP;TZID=Asia/Yekaterinburg:20260409T193804
 DTSTART;TZID=Asia/Yekaterinburg:20260417T140500
 DTEND;TZID=Asia/Yekaterinburg:20260417T153500
 SUMMARY:Физическая культура и спорт: элективные курсы по видам спорта / Судейская практика / Ф.К. и С. Э.К. 6 П-01
@@ -175,7 +175,7 @@ BEGIN:VEVENT
 UID:d1f62256-de57-4294-8179-07ed701bc9cf
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260407T195427
+DTSTAMP;TZID=Asia/Yekaterinburg:20260409T193804
 DTSTART;TZID=Asia/Yekaterinburg:20260417T120500
 DTEND;TZID=Asia/Yekaterinburg:20260417T133500
 SUMMARY:Физическая культура и спорт: элективные курсы по видам спорта / Судейская практика / Ф.К. и С. Э.К. 6 П-01
@@ -188,7 +188,7 @@ BEGIN:VEVENT
 UID:d47b9a66-69d0-4672-80d2-a7503a43fed1
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260407T195427
+DTSTAMP;TZID=Asia/Yekaterinburg:20260409T193804
 DTSTART;TZID=Asia/Yekaterinburg:20260417T155500
 DTEND;TZID=Asia/Yekaterinburg:20260417T191000
 SUMMARY:Основы системной и программной инженерии (Модуль 2) / Взаимодействие объектов / ОСиПИ-2 П-02
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 UID:f5cb573c-1d9b-4602-b764-05c2512a10f7
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260407T195427
+DTSTAMP;TZID=Asia/Yekaterinburg:20260409T193804
 DTSTART;TZID=Asia/Yekaterinburg:20260414T140500
 DTEND;TZID=Asia/Yekaterinburg:20260414T153500
 SUMMARY:Основы системной и программной инженерии (Модуль 2) / Дополнительные шаблоны GRASP для распределения обязанностей / ОСиПИ-2 Л-01
