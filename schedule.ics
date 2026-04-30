@@ -6,7 +6,7 @@ BEGIN:VEVENT
 UID:33e75839-11c7-46d0-a436-a43b30bf31ce
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260429T071022
+DTSTAMP;TZID=Asia/Yekaterinburg:20260430T124603
 DTSTART;TZID=Asia/Yekaterinburg:20260427T155500
 DTEND;TZID=Asia/Yekaterinburg:20260427T191000
 SUMMARY:Методы искусственного интеллекта. Модуль 1 / Построение и исследование сверточных нейросетей / МИИ П-03
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 UID:7b224a6b-4bd9-4657-9d58-838a6b5a9a36
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260429T071022
+DTSTAMP;TZID=Asia/Yekaterinburg:20260430T124603
 DTSTART;TZID=Asia/Yekaterinburg:20260429T083000
 DTEND;TZID=Asia/Yekaterinburg:20260429T114500
 SUMMARY:Разработка программных приложений Часть 2 / Условный рендеринг и работа с массивами / РПП П-04
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 UID:bd05308e-7733-460b-a526-27b96e216b41
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260429T071022
+DTSTAMP;TZID=Asia/Yekaterinburg:20260430T124603
 DTSTART;TZID=Asia/Yekaterinburg:20260428T140500
 DTEND;TZID=Asia/Yekaterinburg:20260428T153500
 SUMMARY:Основы системной и программной инженерии (Модуль 2) / Шаблоны проектирования Gang-of-Four (GOF- банды четырех) / ОСиПИ-2 Л-01
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:d11b0bb6-73b9-477e-aecc-5e6b921e5b90
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260429T071022
+DTSTAMP;TZID=Asia/Yekaterinburg:20260430T124603
 DTSTART;TZID=Asia/Yekaterinburg:20260502T155500
 DTEND;TZID=Asia/Yekaterinburg:20260502T191000
 SUMMARY:Мобильная разработка (Модуль 1) / Ресурсы приложения / МобР-1 П-05
@@ -56,9 +56,9 @@ CATEGORIES:МобР-1
 END:VEVENT
 BEGIN:VEVENT
 UID:d4b06032-70cc-4e6f-99dd-c21931fc327a
-SEQUENCE:0
+SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260429T071022
+DTSTAMP;TZID=Asia/Yekaterinburg:20260430T124603
 DTSTART;TZID=Asia/Yekaterinburg:20260502T192000
 DTEND;TZID=Asia/Yekaterinburg:20260502T205000
 SUMMARY:Основы системной и программной инженерии (Модуль 2) / Шаблоны проектирования Gang-of-Four (GOF- банды четырех) / ОСиПИ-2 Л-01
@@ -69,9 +69,9 @@ CATEGORIES:ОСиПИ-2
 END:VEVENT
 BEGIN:VEVENT
 UID:effdbacb-953a-4ac7-81ab-38529e5348ec
-SEQUENCE:0
+SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260429T071022
+DTSTAMP;TZID=Asia/Yekaterinburg:20260430T124603
 DTSTART;TZID=Asia/Yekaterinburg:20260429T120500
 DTEND;TZID=Asia/Yekaterinburg:20260429T153500
 SUMMARY:Основы системной и программной инженерии (Модуль 2) / Применение шаблонов проектирования GoF / ОСиПИ-2 П-02
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 UID:f268b7c7-cc40-42bb-a20e-66b9985bf8d1
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260429T071022
+DTSTAMP;TZID=Asia/Yekaterinburg:20260430T124603
 DTSTART;TZID=Asia/Yekaterinburg:20260428T120500
 DTEND;TZID=Asia/Yekaterinburg:20260428T133500
 SUMMARY:Разработка программных приложений Часть 2 / Чистая архитектура проекта Vue / РПП Л-03
@@ -95,9 +95,9 @@ CATEGORIES:РПП
 END:VEVENT
 BEGIN:VEVENT
 UID:44ab06f7-6e9d-4e52-a75c-6673413643f4
-SEQUENCE:0
+SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260429T071027
+DTSTAMP;TZID=Asia/Yekaterinburg:20260430T124607
 DTSTART;TZID=Asia/Yekaterinburg:20260508T174000
 DTEND;TZID=Asia/Yekaterinburg:20260508T205000
 SUMMARY:Мобильная разработка (Модуль 1) / Меню / МобР-1 Л-02
@@ -108,9 +108,9 @@ CATEGORIES:МобР-1
 END:VEVENT
 BEGIN:VEVENT
 UID:7aff162e-57d0-4211-a2ff-04fe07a0d5c2
-SEQUENCE:3
+SEQUENCE:4
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260429T071027
+DTSTAMP;TZID=Asia/Yekaterinburg:20260430T124607
 DTSTART;TZID=Asia/Yekaterinburg:20260508T140500
 DTEND;TZID=Asia/Yekaterinburg:20260508T153500
 SUMMARY:Физическая культура и спорт: элективные курсы по видам спорта / Развитие гибкости / Ф.К. и С. Э.К. 6 П-01
@@ -121,9 +121,9 @@ CATEGORIES:Ф.К. и С. Э.К. 6
 END:VEVENT
 BEGIN:VEVENT
 UID:870ec58b-197a-48a0-9979-35c3610ffd04
-SEQUENCE:3
+SEQUENCE:4
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260429T071027
+DTSTAMP;TZID=Asia/Yekaterinburg:20260430T124607
 DTSTART;TZID=Asia/Yekaterinburg:20260508T120500
 DTEND;TZID=Asia/Yekaterinburg:20260508T133500
 SUMMARY:Физическая культура и спорт: элективные курсы по видам спорта / Развитие гибкости / Ф.К. и С. Э.К. 6 П-01
@@ -136,7 +136,7 @@ BEGIN:VEVENT
 UID:aae038df-a3ec-4bec-9f75-5cb100c14c38
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260429T071027
+DTSTAMP;TZID=Asia/Yekaterinburg:20260430T124607
 DTSTART;TZID=Asia/Yekaterinburg:20260506T140500
 DTEND;TZID=Asia/Yekaterinburg:20260506T172500
 SUMMARY:Основы системной и программной инженерии (Модуль 2) / Применение шаблонов проектирования GoF / ОСиПИ-2 П-02
@@ -147,9 +147,9 @@ CATEGORIES:ОСиПИ-2
 END:VEVENT
 BEGIN:VEVENT
 UID:b2269833-3445-4900-a614-1a11c4454c48
-SEQUENCE:0
+SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260429T071027
+DTSTAMP;TZID=Asia/Yekaterinburg:20260430T124607
 DTSTART;TZID=Asia/Yekaterinburg:20260504T155500
 DTEND;TZID=Asia/Yekaterinburg:20260504T191000
 SUMMARY:Методы искусственного интеллекта. Модуль 1 / Сверточные нейронные сети / МИИ Л-01
