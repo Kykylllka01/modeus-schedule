@@ -3,114 +3,10 @@ VERSION:2.0
 PRODID:-//Custis/Modeus//Schedule Calendar App//RU
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:02b2a752-9853-4b89-a9e0-ecf986c4a877
-SEQUENCE:0
-ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260515T072650
-DTSTART;TZID=Asia/Yekaterinburg:20260516T155500
-DTEND;TZID=Asia/Yekaterinburg:20260516T191000
-SUMMARY:Мобильная разработка (Модуль 1) / Создание простого меню / МобР-1 П-05
-LOCATION:Главный корпус / 309
-DESCRIPTION:Практическое занятие / Проектный семинар\n\nПреподаватель: Пирогов Михаил Андреевич\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2202b2a752-9853-4b89-a9e0-ecf986c4a877%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-16T15:55:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%2202b2a752-9853-4b89-a9e0-ecf986c4a877%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-16T15:55:00.000Z%22%7D\n
-CATEGORIES:Практическое занятие
-CATEGORIES:МобР-1
-END:VEVENT
-BEGIN:VEVENT
-UID:08f868f9-d322-42c2-96d5-a10996ebdc18
-SEQUENCE:5
-ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260515T072650
-DTSTART;TZID=Asia/Yekaterinburg:20260515T120500
-DTEND;TZID=Asia/Yekaterinburg:20260515T133500
-SUMMARY:Физическая культура и спорт: элективные курсы по видам спорта / Развитие скоростных способностей / Ф.К. и С. Э.К. 6 П-01
-LOCATION:ЦЗВС — ул. Барнаульская\,41
-DESCRIPTION:Практическое занятие / Семинар\n\nРоль не определена: Есиков Юрий Николаевич\, Иванов Виталий Александрович\, Казавчинская Анастасия Евгеньевна\, Ягудина Елена Сергеевна\, Селиверстова Ольга Алексеевна\, Криводанов Дмитрий Алексеевич\, Чебыкина Галина Анатольевна\, Безрукова Юлия Владимировна\, Ерженин Владимир Сергеевич\, Колоскова Нина Владиславовна\, Подоляк Андрей Васильевич\, Баянов Николай Ильич\, Рычков Юрий Аркадьевич\, Драговоз Лидия Анатольевна\, Фабричникова Оксана Владимировна\, Дорохин Геннадий Анатольевич\, Сизикова Оксана Юрьевна\, Шароварова Марина Александровна\, Мазитов Закир Флюрович\, Сумец Милана Сергеевна\, Барабанова Евгения Николаевна\, Тверских Владислав Владимирович\, Борзаковская Татьяна Александровна\, Криводанова Наталья Александровна\, Логанова Ирина Анатольевна\, Соловьев Сергей Викторович\, Зайцева Екатерина Алексеевна\, Севастьянова Наталья Александровна\, Семухина Татьяна Валерьевна\, Соловьева Евгения Витальевна\, Алипов Игорь Викторович\, Боярова Мария Сергеевна\, Толстогузов Сергей Семенович\, Богацкой Алексей Дмитриевич\, Тихомирова Насима Шавкатовна\, Величко Ольга Геннадьевна\, Кимвалов Денис Александрович\, Янаева Франческа Александровна\, Есиков Иван Николаевич\, Тверских Владимир Викторович\, Копякова Анна Леонидовна\, Татур Андрей Викторович\, Якель Светлана Валерьевна\, Трубина Валентина Евгеньевна\, Бояров Иван Николаевич\, Беляева Оксана Сергеевна\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2208f868f9-d322-42c2-96d5-a10996ebdc18%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-15T12:05:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%2208f868f9-d322-42c2-96d5-a10996ebdc18%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-15T12:05:00.000Z%22%7D\n
-CATEGORIES:Практическое занятие
-CATEGORIES:Ф.К. и С. Э.К. 6
-END:VEVENT
-BEGIN:VEVENT
-UID:13581c4c-73bf-4dda-830d-5a1d3560d01d
-SEQUENCE:0
-ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260515T072650
-DTSTART;TZID=Asia/Yekaterinburg:20260515T155500
-DTEND;TZID=Asia/Yekaterinburg:20260515T191000
-SUMMARY:Основы системной и программной инженерии (Модуль 2) / Создание базы данных проекта / ОСиПИ-2 П-02
-LOCATION:Главный корпус / 215
-DESCRIPTION:Практическое занятие / Проектный семинар\n\nПреподаватель: Семихин Дмитрий Витальевич\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2213581c4c-73bf-4dda-830d-5a1d3560d01d%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-15T15:55:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%2213581c4c-73bf-4dda-830d-5a1d3560d01d%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-15T15:55:00.000Z%22%7D\n
-CATEGORIES:Практическое занятие
-CATEGORIES:ОСиПИ-2
-END:VEVENT
-BEGIN:VEVENT
-UID:5f8a4c12-800b-4dc2-9bcb-e8966105982e
-SEQUENCE:1
-ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260515T072650
-DTSTART;TZID=Asia/Yekaterinburg:20260513T083000
-DTEND;TZID=Asia/Yekaterinburg:20260513T114500
-SUMMARY:Разработка программных приложений Часть 2 / Работа с формами / РПП П-04
-LOCATION:Главный корпус / 319
-DESCRIPTION:Практическое занятие / Исследовательский семинар\n\nПреподаватель: Яковлев Иван Михайлович\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%225f8a4c12-800b-4dc2-9bcb-e8966105982e%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-13T08:30:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%225f8a4c12-800b-4dc2-9bcb-e8966105982e%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-13T08:30:00.000Z%22%7D\n
-CATEGORIES:Практическое занятие
-CATEGORIES:РПП
-END:VEVENT
-BEGIN:VEVENT
-UID:89ed4e66-4eca-4a3e-845e-9d4639106b30
-SEQUENCE:5
-ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260515T072650
-DTSTART;TZID=Asia/Yekaterinburg:20260515T140500
-DTEND;TZID=Asia/Yekaterinburg:20260515T153500
-SUMMARY:Физическая культура и спорт: элективные курсы по видам спорта /  Развитие скоростных способностей / Ф.К. и С. Э.К. 6 П-01
-LOCATION:ЦЗВС — ул. Барнаульская\,41
-DESCRIPTION:Практическое занятие / Семинар\n\nРоль не определена: Баянов Николай Ильич\, Селиверстова Ольга Алексеевна\, Сизикова Оксана Юрьевна\, Дорохин Геннадий Анатольевич\, Толстогузов Сергей Семенович\, Соловьев Сергей Викторович\, Беляева Оксана Сергеевна\, Якель Светлана Валерьевна\, Алипов Игорь Викторович\, Безрукова Юлия Владимировна\, Величко Ольга Геннадьевна\, Зайцева Екатерина Алексеевна\, Есиков Юрий Николаевич\, Мазитов Закир Флюрович\, Фабричникова Оксана Владимировна\, Логанова Ирина Анатольевна\, Борзаковская Татьяна Александровна\, Шароварова Марина Александровна\, Тверских Владислав Владимирович\, Криводанова Наталья Александровна\, Рычков Юрий Аркадьевич\, Чебыкина Галина Анатольевна\, Копякова Анна Леонидовна\, Семухина Татьяна Валерьевна\, Иванов Виталий Александрович\, Криводанов Дмитрий Алексеевич\, Трубина Валентина Евгеньевна\, Подоляк Андрей Васильевич\, Бояров Иван Николаевич\, Богацкой Алексей Дмитриевич\, Кимвалов Денис Александрович\, Татур Андрей Викторович\, Ерженин Владимир Сергеевич\, Сумец Милана Сергеевна\, Казавчинская Анастасия Евгеньевна\, Тихомирова Насима Шавкатовна\, Янаева Франческа Александровна\, Колоскова Нина Владиславовна\, Соловьева Евгения Витальевна\, Ягудина Елена Сергеевна\, Тверских Владимир Викторович\, Барабанова Евгения Николаевна\, Севастьянова Наталья Александровна\, Боярова Мария Сергеевна\, Есиков Иван Николаевич\, Драговоз Лидия Анатольевна\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2289ed4e66-4eca-4a3e-845e-9d4639106b30%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-15T14:05:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%2289ed4e66-4eca-4a3e-845e-9d4639106b30%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-15T14:05:00.000Z%22%7D\n
-CATEGORIES:Практическое занятие
-CATEGORIES:Ф.К. и С. Э.К. 6
-END:VEVENT
-BEGIN:VEVENT
-UID:cba3cd6e-e8a6-4e2b-b0d4-ee7d401c883c
-SEQUENCE:1
-ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260515T072650
-DTSTART;TZID=Asia/Yekaterinburg:20260511T155500
-DTEND;TZID=Asia/Yekaterinburg:20260511T191000
-SUMMARY:Методы искусственного интеллекта. Модуль 1 / Построение и исследование сверточных нейросетей / МИИ П-03
-LOCATION:Главный корпус / 319
-DESCRIPTION:Практическое занятие / Исследовательский семинар\n\nПреподаватель: Радаев Кирилл Владимирович\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22cba3cd6e-e8a6-4e2b-b0d4-ee7d401c883c%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-11T15:55:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22cba3cd6e-e8a6-4e2b-b0d4-ee7d401c883c%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-11T15:55:00.000Z%22%7D\n
-CATEGORIES:Практическое занятие
-CATEGORIES:МИИ
-END:VEVENT
-BEGIN:VEVENT
-UID:e8086203-fe99-4d1e-817f-c96abd030117
-SEQUENCE:2
-ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260515T072650
-DTSTART;TZID=Asia/Yekaterinburg:20260512T120500
-DTEND;TZID=Asia/Yekaterinburg:20260512T133500
-SUMMARY:Разработка программных приложений Часть 2 / Работа с HTTP / РПП Л-03
-LOCATION:Главный корпус / 302
-DESCRIPTION:Лекционное занятие / Информационная лекция\n\nПреподаватель: Барская Галина Борисовна\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22e8086203-fe99-4d1e-817f-c96abd030117%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-12T12:05:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22e8086203-fe99-4d1e-817f-c96abd030117%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-12T12:05:00.000Z%22%7D\n
-CATEGORIES:Лекционное занятие
-CATEGORIES:РПП
-END:VEVENT
-BEGIN:VEVENT
-UID:ec377db8-7380-4c45-9369-6347d77b3c9a
-SEQUENCE:2
-ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260515T072650
-DTSTART;TZID=Asia/Yekaterinburg:20260512T140500
-DTEND;TZID=Asia/Yekaterinburg:20260512T153500
-SUMMARY:Основы системной и программной инженерии (Модуль 2) / Обобщение модели проектирования / ОСиПИ-2 Л-01
-LOCATION:Главный корпус / 301
-DESCRIPTION:Лекционное занятие / Проблемная лекция\n\nПреподаватель: Плахотникова Мария Александровна\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22ec377db8-7380-4c45-9369-6347d77b3c9a%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-12T14:05:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22ec377db8-7380-4c45-9369-6347d77b3c9a%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-12T14:05:00.000Z%22%7D\n
-CATEGORIES:Лекционное занятие
-CATEGORIES:ОСиПИ-2
-END:VEVENT
-BEGIN:VEVENT
 UID:08e20abf-2754-413d-9b27-70b839e68988
 SEQUENCE:2
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260515T072655
+DTSTAMP;TZID=Asia/Yekaterinburg:20260518T102719
 DTSTART;TZID=Asia/Yekaterinburg:20260522T140500
 DTEND;TZID=Asia/Yekaterinburg:20260522T153500
 SUMMARY:Физическая культура и спорт: элективные курсы по видам спорта / Развитие общей выносливости / Ф.К. и С. Э.К. 6 П-01
@@ -123,7 +19,7 @@ BEGIN:VEVENT
 UID:0a1457a4-1cc3-4c08-9d49-ce729b607e30
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260515T072655
+DTSTAMP;TZID=Asia/Yekaterinburg:20260518T102719
 DTSTART;TZID=Asia/Yekaterinburg:20260520T083000
 DTEND;TZID=Asia/Yekaterinburg:20260520T114500
 SUMMARY:Разработка программных приложений Часть 2 / Компоненты / РПП П-04
@@ -136,7 +32,7 @@ BEGIN:VEVENT
 UID:11ccd366-651d-4544-8f69-418d6cc209dd
 SEQUENCE:2
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260515T072655
+DTSTAMP;TZID=Asia/Yekaterinburg:20260518T102719
 DTSTART;TZID=Asia/Yekaterinburg:20260522T120500
 DTEND;TZID=Asia/Yekaterinburg:20260522T133500
 SUMMARY:Физическая культура и спорт: элективные курсы по видам спорта / Развитие общей выносливости / Ф.К. и С. Э.К. 6 П-01
@@ -149,7 +45,7 @@ BEGIN:VEVENT
 UID:500b9d87-29d6-42e7-a602-d61534645e0d
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260515T072655
+DTSTAMP;TZID=Asia/Yekaterinburg:20260518T102719
 DTSTART;TZID=Asia/Yekaterinburg:20260523T155500
 DTEND;TZID=Asia/Yekaterinburg:20260523T191000
 SUMMARY:Основы системной и программной инженерии (Модуль 2) / Проектирование архитектуры / ОСиПИ-2 П-02
@@ -162,7 +58,7 @@ BEGIN:VEVENT
 UID:8d0e62f9-5c53-4fe4-8f10-f610b4e96fdc
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260515T072655
+DTSTAMP;TZID=Asia/Yekaterinburg:20260518T102719
 DTSTART;TZID=Asia/Yekaterinburg:20260519T140500
 DTEND;TZID=Asia/Yekaterinburg:20260519T153500
 SUMMARY:Основы системной и программной инженерии (Модуль 2) / Проектирование систем на основе шаблонов / ОСиПИ-2 Л-01
@@ -175,7 +71,7 @@ BEGIN:VEVENT
 UID:ae5d18d1-0a7c-4c18-927f-72112ec11c7b
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260515T072655
+DTSTAMP;TZID=Asia/Yekaterinburg:20260518T102719
 DTSTART;TZID=Asia/Yekaterinburg:20260518T155500
 DTEND;TZID=Asia/Yekaterinburg:20260518T191000
 SUMMARY:Методы искусственного интеллекта. Модуль 1 / Сверточные нейронные сети / МИИ Л-01
@@ -188,7 +84,7 @@ BEGIN:VEVENT
 UID:e7e15205-872f-469c-ab08-d0f58ca05c81
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260515T072655
+DTSTAMP;TZID=Asia/Yekaterinburg:20260518T102719
 DTSTART;TZID=Asia/Yekaterinburg:20260519T120500
 DTEND;TZID=Asia/Yekaterinburg:20260519T133500
 SUMMARY:Разработка программных приложений Часть 2 / Анимации Vue JS / РПП Л-03
@@ -201,7 +97,7 @@ BEGIN:VEVENT
 UID:ee5ce491-f4a2-4d47-ad57-026351acf7e9
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260515T072655
+DTSTAMP;TZID=Asia/Yekaterinburg:20260518T102719
 DTSTART;TZID=Asia/Yekaterinburg:20260522T174000
 DTEND;TZID=Asia/Yekaterinburg:20260522T205000
 SUMMARY:Мобильная разработка (Модуль 1) / Анимация / МобР-1 Л-02
@@ -209,5 +105,109 @@ LOCATION:Главный корпус / 323
 DESCRIPTION:Лекционное занятие / Информационная лекция\n\nПреподаватель: Карякин Иван Юрьевич\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22ee5ce491-f4a2-4d47-ad57-026351acf7e9%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-22T17:40:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22ee5ce491-f4a2-4d47-ad57-026351acf7e9%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-22T17:40:00.000Z%22%7D\n
 CATEGORIES:Лекционное занятие
 CATEGORIES:МобР-1
+END:VEVENT
+BEGIN:VEVENT
+UID:242099f7-a2d7-4ea4-a756-79b5b63214ca
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20260518T102723
+DTSTART;TZID=Asia/Yekaterinburg:20260530T155500
+DTEND;TZID=Asia/Yekaterinburg:20260530T191000
+SUMMARY:Мобильная разработка (Модуль 1) / MenuInflater и xml-меню. / МобР-1 П-05
+LOCATION:Главный корпус / 309
+DESCRIPTION:Практическое занятие / Проектный семинар\n\nПреподаватель: Пирогов Михаил Андреевич\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22242099f7-a2d7-4ea4-a756-79b5b63214ca%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-30T15:55:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22242099f7-a2d7-4ea4-a756-79b5b63214ca%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-30T15:55:00.000Z%22%7D\n
+CATEGORIES:Практическое занятие
+CATEGORIES:МобР-1
+END:VEVENT
+BEGIN:VEVENT
+UID:7cba0490-f8f4-417f-a0da-f362f3eb2f00
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20260518T102723
+DTSTART;TZID=Asia/Yekaterinburg:20260529T140500
+DTEND;TZID=Asia/Yekaterinburg:20260529T153500
+SUMMARY:Физическая культура и спорт: элективные курсы по видам спорта / Развитие общей выносливости. / Ф.К. и С. Э.К. 6 П-01
+LOCATION:ЦЗВС — ул. Барнаульская\,41
+DESCRIPTION:Практическое занятие / Семинар\n\nРоль не определена: Шароварова Марина Александровна\, Алипов Игорь Викторович\, Янаева Франческа Александровна\, Зайцева Екатерина Алексеевна\, Тихомирова Насима Шавкатовна\, Борзаковская Татьяна Александровна\, Тверских Владислав Владимирович\, Драговоз Лидия Анатольевна\, Подоляк Андрей Васильевич\, Бояров Иван Николаевич\, Боярова Мария Сергеевна\, Сумец Милана Сергеевна\, Фабричникова Оксана Владимировна\, Барабанова Евгения Николаевна\, Мазитов Закир Флюрович\, Ягудина Елена Сергеевна\, Рычков Юрий Аркадьевич\, Копякова Анна Леонидовна\, Богацкой Алексей Дмитриевич\, Тверских Владимир Викторович\, Криводанов Дмитрий Алексеевич\, Сизикова Оксана Юрьевна\, Иванов Виталий Александрович\, Дорохин Геннадий Анатольевич\, Семухина Татьяна Валерьевна\, Соловьев Сергей Викторович\, Казавчинская Анастасия Евгеньевна\, Логанова Ирина Анатольевна\, Татур Андрей Викторович\, Кимвалов Денис Александрович\, Толстогузов Сергей Семенович\, Севастьянова Наталья Александровна\, Якель Светлана Валерьевна\, Селиверстова Ольга Алексеевна\, Соловьева Евгения Витальевна\, Колоскова Нина Владиславовна\, Криводанова Наталья Александровна\, Ерженин Владимир Сергеевич\, Безрукова Юлия Владимировна\, Есиков Юрий Николаевич\, Трубина Валентина Евгеньевна\, Есиков Иван Николаевич\, Беляева Оксана Сергеевна\, Величко Ольга Геннадьевна\, Чебыкина Галина Анатольевна\, Баянов Николай Ильич\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%227cba0490-f8f4-417f-a0da-f362f3eb2f00%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-29T14:05:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%227cba0490-f8f4-417f-a0da-f362f3eb2f00%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-29T14:05:00.000Z%22%7D\n
+CATEGORIES:Практическое занятие
+CATEGORIES:Ф.К. и С. Э.К. 6
+END:VEVENT
+BEGIN:VEVENT
+UID:94947811-2d86-464f-83ef-0ec7e3eea170
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20260518T102723
+DTSTART;TZID=Asia/Yekaterinburg:20260526T155500
+DTEND;TZID=Asia/Yekaterinburg:20260526T191000
+SUMMARY:Основы системной и программной инженерии (Модуль 2) / Контейнеры внедрения зависимостей / ОСиПИ-2 П-02
+LOCATION:Главный корпус / 316
+DESCRIPTION:Практическое занятие / Проектный семинар\n\nПреподаватель: Семихин Дмитрий Витальевич\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2294947811-2d86-464f-83ef-0ec7e3eea170%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-26T15:55:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%2294947811-2d86-464f-83ef-0ec7e3eea170%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-26T15:55:00.000Z%22%7D\n
+CATEGORIES:Практическое занятие
+CATEGORIES:ОСиПИ-2
+END:VEVENT
+BEGIN:VEVENT
+UID:afc9cef2-6749-4cbe-b28f-70404da8270a
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20260518T102723
+DTSTART;TZID=Asia/Yekaterinburg:20260525T155500
+DTEND;TZID=Asia/Yekaterinburg:20260525T191000
+SUMMARY:Методы искусственного интеллекта. Модуль 1 / Построение и исследование сверточных нейросетей / МИИ П-03
+LOCATION:Главный корпус / 319
+DESCRIPTION:Практическое занятие / Исследовательский семинар\n\nПреподаватель: Радаев Кирилл Владимирович\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22afc9cef2-6749-4cbe-b28f-70404da8270a%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-25T15:55:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22afc9cef2-6749-4cbe-b28f-70404da8270a%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-25T15:55:00.000Z%22%7D\n
+CATEGORIES:Практическое занятие
+CATEGORIES:МИИ
+END:VEVENT
+BEGIN:VEVENT
+UID:dd6c1a3f-61dd-4d45-99a3-e8bd20bcf382
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20260518T102723
+DTSTART;TZID=Asia/Yekaterinburg:20260527T083000
+DTEND;TZID=Asia/Yekaterinburg:20260527T114500
+SUMMARY:Разработка программных приложений Часть 2 / Слоты / РПП П-04
+LOCATION:Главный корпус / 319
+DESCRIPTION:Практическое занятие / Исследовательский семинар\n\nПреподаватель: Яковлев Иван Михайлович\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22dd6c1a3f-61dd-4d45-99a3-e8bd20bcf382%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-27T08:30:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22dd6c1a3f-61dd-4d45-99a3-e8bd20bcf382%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-27T08:30:00.000Z%22%7D\n
+CATEGORIES:Практическое занятие
+CATEGORIES:РПП
+END:VEVENT
+BEGIN:VEVENT
+UID:e0729cf7-5af5-456f-8f6c-7e546d445ec5
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20260518T102723
+DTSTART;TZID=Asia/Yekaterinburg:20260526T120500
+DTEND;TZID=Asia/Yekaterinburg:20260526T133500
+SUMMARY:Разработка программных приложений Часть 2 / Подключение и использование Vuex / РПП Л-03
+LOCATION:Главный корпус / 302
+DESCRIPTION:Лекционное занятие / Информационная лекция\n\nПреподаватель: Барская Галина Борисовна\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22e0729cf7-5af5-456f-8f6c-7e546d445ec5%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-26T12:05:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22e0729cf7-5af5-456f-8f6c-7e546d445ec5%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-26T12:05:00.000Z%22%7D\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:РПП
+END:VEVENT
+BEGIN:VEVENT
+UID:ef619fb8-cae1-4c1a-9b91-e854b93ee852
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20260518T102723
+DTSTART;TZID=Asia/Yekaterinburg:20260529T120500
+DTEND;TZID=Asia/Yekaterinburg:20260529T133500
+SUMMARY:Физическая культура и спорт: элективные курсы по видам спорта / Развитие общей выносливости / Ф.К. и С. Э.К. 6 П-01
+LOCATION:ЦЗВС — ул. Барнаульская\,41
+DESCRIPTION:Практическое занятие / Семинар\n\nРоль не определена: Якель Светлана Валерьевна\, Величко Ольга Геннадьевна\, Селиверстова Ольга Алексеевна\, Есиков Юрий Николаевич\, Безрукова Юлия Владимировна\, Татур Андрей Викторович\, Ерженин Владимир Сергеевич\, Казавчинская Анастасия Евгеньевна\, Колоскова Нина Владиславовна\, Мазитов Закир Флюрович\, Баянов Николай Ильич\, Есиков Иван Николаевич\, Трубина Валентина Евгеньевна\, Боярова Мария Сергеевна\, Тихомирова Насима Шавкатовна\, Логанова Ирина Анатольевна\, Янаева Франческа Александровна\, Криводанов Дмитрий Алексеевич\, Копякова Анна Леонидовна\, Дорохин Геннадий Анатольевич\, Фабричникова Оксана Владимировна\, Рычков Юрий Аркадьевич\, Чебыкина Галина Анатольевна\, Беляева Оксана Сергеевна\, Алипов Игорь Викторович\, Драговоз Лидия Анатольевна\, Иванов Виталий Александрович\, Бояров Иван Николаевич\, Севастьянова Наталья Александровна\, Криводанова Наталья Александровна\, Сумец Милана Сергеевна\, Зайцева Екатерина Алексеевна\, Семухина Татьяна Валерьевна\, Соловьева Евгения Витальевна\, Толстогузов Сергей Семенович\, Кимвалов Денис Александрович\, Сизикова Оксана Юрьевна\, Шароварова Марина Александровна\, Тверских Владимир Викторович\, Подоляк Андрей Васильевич\, Тверских Владислав Владимирович\, Соловьев Сергей Викторович\, Барабанова Евгения Николаевна\, Богацкой Алексей Дмитриевич\, Ягудина Елена Сергеевна\, Борзаковская Татьяна Александровна\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22ef619fb8-cae1-4c1a-9b91-e854b93ee852%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-29T12:05:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22ef619fb8-cae1-4c1a-9b91-e854b93ee852%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-29T12:05:00.000Z%22%7D\n
+CATEGORIES:Практическое занятие
+CATEGORIES:Ф.К. и С. Э.К. 6
+END:VEVENT
+BEGIN:VEVENT
+UID:ffd34aef-fcdc-42c7-acfd-31dc6c0c7c7b
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20260518T102723
+DTSTART;TZID=Asia/Yekaterinburg:20260526T140500
+DTEND;TZID=Asia/Yekaterinburg:20260526T153500
+SUMMARY:Основы системной и программной инженерии (Модуль 2) / Проектирование контура взаимодействия с базой данных / ОСиПИ-2 Л-01
+LOCATION:Главный корпус / 301
+DESCRIPTION:Лекционное занятие / Проблемная лекция\n\nПреподаватель: Плахотникова Мария Александровна\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22ffd34aef-fcdc-42c7-acfd-31dc6c0c7c7b%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-26T14:05:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22ffd34aef-fcdc-42c7-acfd-31dc6c0c7c7b%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-05-26T14:05:00.000Z%22%7D\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:ОСиПИ-2
 END:VEVENT
 END:VCALENDAR
