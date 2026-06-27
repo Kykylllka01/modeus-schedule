@@ -6,7 +6,7 @@ BEGIN:VEVENT
 UID:196adc34-a4ea-465d-a987-1d94e0ffcdcd
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260624T162711
+DTSTAMP;TZID=Asia/Yekaterinburg:20260627T132653
 DTSTART;TZID=Asia/Yekaterinburg:20260627T155500
 DTEND;TZID=Asia/Yekaterinburg:20260627T191000
 SUMMARY:Мобильная разработка (Модуль 1) / Промежуточная аттестация по итогам семестра / МобР-1 АТ-06
@@ -17,9 +17,9 @@ CATEGORIES:МобР-1
 END:VEVENT
 BEGIN:VEVENT
 UID:22f9047b-9a54-4497-bc58-921bfa7de5c4
-SEQUENCE:0
+SEQUENCE:2
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260624T162711
+DTSTAMP;TZID=Asia/Yekaterinburg:20260627T132653
 DTSTART;TZID=Asia/Yekaterinburg:20260626T120500
 DTEND;TZID=Asia/Yekaterinburg:20260626T133500
 SUMMARY:Физическая культура и спорт: элективные курсы по видам спорта / Контрольное задание № 1 / Ф.К. и С. Э.К. 6 АТ-01
@@ -30,9 +30,9 @@ CATEGORIES:Ф.К. и С. Э.К. 6
 END:VEVENT
 BEGIN:VEVENT
 UID:2caf731c-711b-4a9e-b682-442cbbe2238c
-SEQUENCE:0
+SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260624T162711
+DTSTAMP;TZID=Asia/Yekaterinburg:20260627T132653
 DTSTART;TZID=Asia/Yekaterinburg:20260625T155500
 DTEND;TZID=Asia/Yekaterinburg:20260625T191000
 SUMMARY:Методы искусственного интеллекта. Модуль 1 / Зачёт по модулю 1 / МИИ АТ-01
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:087c590f-7cb9-4a8c-a41d-464d033d0093
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260624T162716
+DTSTAMP;TZID=Asia/Yekaterinburg:20260627T132658
 DTSTART;TZID=Asia/Yekaterinburg:20260703T140500
 DTEND;TZID=Asia/Yekaterinburg:20260703T172500
 SUMMARY:Основы системной и программной инженерии (Модуль 2) / Экзамен по дисциплине / ОСиПИ-2 АТ-01
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 UID:873e418a-6078-414c-847e-9b0fe0c9c653
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260624T162716
+DTSTAMP;TZID=Asia/Yekaterinburg:20260627T132658
 DTSTART;TZID=Asia/Yekaterinburg:20260702T140500
 DTEND;TZID=Asia/Yekaterinburg:20260702T172500
 SUMMARY:Основы системной и программной инженерии (Модуль 2) / Консультация перед экзаменом / ОСиПИ-2 К-01
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 UID:cb64b2ca-804e-4185-9488-609b747ebde1
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260624T162716
+DTSTAMP;TZID=Asia/Yekaterinburg:20260627T132658
 DTSTART;TZID=Asia/Yekaterinburg:20260630T101500
 DTEND;TZID=Asia/Yekaterinburg:20260630T133500
 SUMMARY:Разработка программных приложений Часть 2 / Экзамен / РПП АТ-01
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 UID:ce92b86c-205a-4804-98ae-706fb23334c6
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20260624T162716
+DTSTAMP;TZID=Asia/Yekaterinburg:20260627T132658
 DTSTART;TZID=Asia/Yekaterinburg:20260629T101500
 DTEND;TZID=Asia/Yekaterinburg:20260629T133500
 SUMMARY:Разработка программных приложений Часть 2 / Консультация перед экзаменом / РПП К-06
