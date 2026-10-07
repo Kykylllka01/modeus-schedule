@@ -6,7 +6,7 @@ BEGIN:VEVENT
 UID:026059b6-8215-403e-96c4-ae57c7439c3f
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261006T154513
+DTSTAMP;TZID=Asia/Yekaterinburg:20261007T153133
 DTSTART;TZID=Asia/Yekaterinburg:20261006T155500
 DTEND;TZID=Asia/Yekaterinburg:20261006T191000
 SUMMARY:Методы искусственного интеллекта. Модуль 2 / Неройсетевые архитектуры и модели для работы с изображениями / МИИ Л-02
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 UID:0b495df7-4461-4ce7-a64d-730a0e6a9a81
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261006T154513
+DTSTAMP;TZID=Asia/Yekaterinburg:20261007T153133
 DTSTART;TZID=Asia/Yekaterinburg:20261010T083000
 DTEND;TZID=Asia/Yekaterinburg:20261010T114500
 SUMMARY:Мобильная разработка (Модуль 2) / Activity / МобР-2 Л-02
@@ -30,13 +30,13 @@ CATEGORIES:МобР-2
 END:VEVENT
 BEGIN:VEVENT
 UID:8d194bc0-62f2-45a4-abbd-d7ed9ed113a8
-SEQUENCE:0
+SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261006T154513
+DTSTAMP;TZID=Asia/Yekaterinburg:20261007T153133
 DTSTART;TZID=Asia/Yekaterinburg:20261010T120500
 DTEND;TZID=Asia/Yekaterinburg:20261010T153500
 SUMMARY:Проектно-технологический практикум / Разработка сценариев использования (прецедентов) программного обеспечения / ПТП П-03
-LOCATION:Не определено
+LOCATION:Корпус-04 / 416
 DESCRIPTION:Практическое занятие / Проектный семинар\n\nРоль не определена: Володина Татьяна Юрьевна\, Бакановская Людмила Николаевна\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%228d194bc0-62f2-45a4-abbd-d7ed9ed113a8%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-10-10T12:05:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%228d194bc0-62f2-45a4-abbd-d7ed9ed113a8%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-10-10T12:05:00.000Z%22%7D\n
 CATEGORIES:Практическое занятие
 CATEGORIES:ПТП
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:c3ba4e70-09ab-4b37-9793-c3e1cbe7bfaf
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261006T154513
+DTSTAMP;TZID=Asia/Yekaterinburg:20261007T153133
 DTSTART;TZID=Asia/Yekaterinburg:20261005T083000
 DTEND;TZID=Asia/Yekaterinburg:20261005T114500
 SUMMARY:Проектно-технологический практикум / Разработка сценариев использования (прецедентов) программного обеспечения / ПТП П-03
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 UID:c410bfea-7629-4ef5-b720-c114b2210f4c
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261006T154513
+DTSTAMP;TZID=Asia/Yekaterinburg:20261007T153133
 DTSTART;TZID=Asia/Yekaterinburg:20261008T083000
 DTEND;TZID=Asia/Yekaterinburg:20261008T114500
 SUMMARY:Создание и сопровождение информационных ресурсов (Модуль 1) / Инструментальные системы моделирования требований к информационным ресурсам / СиС ИР 1 П-04
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 UID:ca6f0209-6fb6-42ec-aca8-aabdfe786a03
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261006T154513
+DTSTAMP;TZID=Asia/Yekaterinburg:20261007T153133
 DTSTART;TZID=Asia/Yekaterinburg:20261009T083000
 DTEND;TZID=Asia/Yekaterinburg:20261009T114500
 SUMMARY:Создание и сопровождение информационных ресурсов (Модуль 1) / Управление процессом разработки информационных ресурсов / СиС ИР 1 Л-02
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 UID:1d4569ce-848b-4df7-817f-8964632838d4
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261006T154518
+DTSTAMP;TZID=Asia/Yekaterinburg:20261007T153138
 DTSTART;TZID=Asia/Yekaterinburg:20261012T083000
 DTEND;TZID=Asia/Yekaterinburg:20261012T114500
 SUMMARY:Проектно-технологический практикум / Разработка концептуальной модели предметной области / ПТП П-03
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 UID:591349df-c1f8-43a3-ba4f-a2c5db5132af
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261006T154518
+DTSTAMP;TZID=Asia/Yekaterinburg:20261007T153138
 DTSTART;TZID=Asia/Yekaterinburg:20261017T120500
 DTEND;TZID=Asia/Yekaterinburg:20261017T153500
 SUMMARY:Проектно-технологический практикум / Разработка концептуальной модели предметной области / ПТП П-03
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 UID:6739e82f-d82e-4e70-aeec-f65ae6f157ac
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261006T154518
+DTSTAMP;TZID=Asia/Yekaterinburg:20261007T153138
 DTSTART;TZID=Asia/Yekaterinburg:20261016T083000
 DTEND;TZID=Asia/Yekaterinburg:20261016T114500
 SUMMARY:Методы искусственного интеллекта. Модуль 2 / Решение прикладных задач / МИИ П-06
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 UID:ec6a85dd-4aa8-4908-85b4-80b51d045fd0
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261006T154518
+DTSTAMP;TZID=Asia/Yekaterinburg:20261007T153138
 DTSTART;TZID=Asia/Yekaterinburg:20261017T083000
 DTEND;TZID=Asia/Yekaterinburg:20261017T114500
 SUMMARY:Мобильная разработка (Модуль 2) / Task / МобР-2 П-06
