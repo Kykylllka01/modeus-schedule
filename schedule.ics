@@ -6,7 +6,7 @@ BEGIN:VEVENT
 UID:2e570011-9135-4d12-a87d-e1cd2d84e8ba
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261102T075404
+DTSTAMP;TZID=Asia/Yekaterinburg:20261103T102101
 DTSTART;TZID=Asia/Yekaterinburg:20261107T083000
 DTEND;TZID=Asia/Yekaterinburg:20261107T114500
 SUMMARY:Мобильная разработка (Модуль 2) / ActivityResult / МобР-2 Л-02
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 UID:4ab3dbf9-f2fb-47fc-a9ab-7a6bc218aac7
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261102T075404
+DTSTAMP;TZID=Asia/Yekaterinburg:20261103T102101
 DTSTART;TZID=Asia/Yekaterinburg:20261105T155500
 DTEND;TZID=Asia/Yekaterinburg:20261105T191000
 SUMMARY:Создание и сопровождение информационных ресурсов (Модуль 1) / Методы и средства проектирования информационных ресурсов / СиС ИР 1 Л-02
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 UID:817bf61d-b18d-458d-9caf-bf1c0350ea34
 SEQUENCE:2
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261102T075404
+DTSTAMP;TZID=Asia/Yekaterinburg:20261103T102101
 DTSTART;TZID=Asia/Yekaterinburg:20261102T083000
 DTEND;TZID=Asia/Yekaterinburg:20261102T114500
 SUMMARY:Проектно-технологический практикум / Проектирование программных классов / ПТП П-03
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:be4df0a0-f519-482c-895f-4b200c4fb9b9
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261102T075404
+DTSTAMP;TZID=Asia/Yekaterinburg:20261103T102101
 DTSTART;TZID=Asia/Yekaterinburg:20261103T155500
 DTEND;TZID=Asia/Yekaterinburg:20261103T191000
 SUMMARY:Методы искусственного интеллекта. Модуль 2 / Лингвистические и мультимодальные нейросетевые модели / МИИ Л-02
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 UID:485660d0-fe62-4808-9572-fb1b8e4b4379
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261102T075408
+DTSTAMP;TZID=Asia/Yekaterinburg:20261103T102105
 DTSTART;TZID=Asia/Yekaterinburg:20261114T120500
 DTEND;TZID=Asia/Yekaterinburg:20261114T153500
 SUMMARY:Мобильная разработка (Модуль 2) / ActivityResult / МобР-2 П-06
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 UID:4a8ebe83-3211-4703-9323-f18e8dd832cc
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261102T075408
+DTSTAMP;TZID=Asia/Yekaterinburg:20261103T102105
 DTSTART;TZID=Asia/Yekaterinburg:20261109T083000
 DTEND;TZID=Asia/Yekaterinburg:20261109T114500
 SUMMARY:Проектно-технологический практикум / Проектирование программных классов / ПТП П-03
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 UID:a562c2f2-bf40-4d47-b19f-52883c1df348
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261102T075408
+DTSTAMP;TZID=Asia/Yekaterinburg:20261103T102105
 DTSTART;TZID=Asia/Yekaterinburg:20261113T083000
 DTEND;TZID=Asia/Yekaterinburg:20261113T114500
 SUMMARY:Создание и сопровождение информационных ресурсов (Модуль 1) / Выявление требований / СиС ИР 1 Л-02
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 UID:cfb54ef2-01c7-4525-9744-02de6ffec4d1
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261102T075408
+DTSTAMP;TZID=Asia/Yekaterinburg:20261103T102105
 DTSTART;TZID=Asia/Yekaterinburg:20261112T083000
 DTEND;TZID=Asia/Yekaterinburg:20261112T114500
 SUMMARY:Создание и сопровождение информационных ресурсов (Модуль 1) / Инструментальные системы моделирования требований к информационным ресурсам / СиС ИР 1 П-04
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 UID:f1514e19-5089-4fa8-80d6-34559ca50307
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261102T075408
+DTSTAMP;TZID=Asia/Yekaterinburg:20261103T102105
 DTSTART;TZID=Asia/Yekaterinburg:20261113T120500
 DTEND;TZID=Asia/Yekaterinburg:20261113T153500
 SUMMARY:Методы искусственного интеллекта. Модуль 2 / Решение прикладных задач / МИИ П-06
