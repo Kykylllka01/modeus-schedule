@@ -4,9 +4,9 @@ PRODID:-//Custis/Modeus//Schedule Calendar App//RU
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:1215ce28-d14f-48b2-b21e-ce9433b7e58c
-SEQUENCE:0
+SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261116T033313
+DTSTAMP;TZID=Asia/Yekaterinburg:20261119T032219
 DTSTART;TZID=Asia/Yekaterinburg:20261116T083000
 DTEND;TZID=Asia/Yekaterinburg:20261116T114500
 SUMMARY:Проектно-технологический практикум / Проектирование программных классов / ПТП П-03
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 UID:21d38188-ca0b-4ed7-a7e3-a897991dea06
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261116T033313
+DTSTAMP;TZID=Asia/Yekaterinburg:20261119T032219
 DTSTART;TZID=Asia/Yekaterinburg:20261121T120500
 DTEND;TZID=Asia/Yekaterinburg:20261121T153500
 SUMMARY:Проектно-технологический практикум / Проектирование программных классов / ПТП П-03
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 UID:6722b3a1-0975-4784-bdb9-338a4730a049
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261116T033313
+DTSTAMP;TZID=Asia/Yekaterinburg:20261119T032219
 DTSTART;TZID=Asia/Yekaterinburg:20261119T083000
 DTEND;TZID=Asia/Yekaterinburg:20261119T114500
 SUMMARY:Создание и сопровождение информационных ресурсов (Модуль 1) / Инструментальные системы моделирования требований к информационным ресурсам / СиС ИР 1 П-04
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:902f94ff-46a2-4782-89c3-cee5a6311bcb
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261116T033313
+DTSTAMP;TZID=Asia/Yekaterinburg:20261119T032219
 DTSTART;TZID=Asia/Yekaterinburg:20261120T083000
 DTEND;TZID=Asia/Yekaterinburg:20261120T114500
 SUMMARY:Создание и сопровождение информационных ресурсов (Модуль 1) / Разработка технических спецификаций на информационные ресурсы / СиС ИР 1 Л-02
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 UID:99c150a7-13ee-416c-b0ed-e426e7f469f7
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261116T033313
+DTSTAMP;TZID=Asia/Yekaterinburg:20261119T032219
 DTSTART;TZID=Asia/Yekaterinburg:20261121T083000
 DTEND;TZID=Asia/Yekaterinburg:20261121T114500
 SUMMARY:Мобильная разработка (Модуль 2) / Хранение данных / МобР-2 Л-02
@@ -69,87 +69,9 @@ CATEGORIES:МобР-2
 END:VEVENT
 BEGIN:VEVENT
 UID:ccf0727a-2254-46bf-b487-6aa655cb94d2
-SEQUENCE:0
-ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261116T033313
-DTSTART;TZID=Asia/Yekaterinburg:20261117T140500
-DTEND;TZID=Asia/Yekaterinburg:20261117T172500
-SUMMARY:Методы искусственного интеллекта. Модуль 2 / Лингвистические и мультимодальные нейросетевые модели / МИИ Л-02
-LOCATION:Главный корпус / 201
-DESCRIPTION:Лекционное занятие / Информационная лекция\n\nПреподаватель: Глухих Игорь Николаевич\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22ccf0727a-2254-46bf-b487-6aa655cb94d2%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-11-17T14:05:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22ccf0727a-2254-46bf-b487-6aa655cb94d2%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-11-17T14:05:00.000Z%22%7D\n
-CATEGORIES:Лекционное занятие
-CATEGORIES:МИИ
-END:VEVENT
-BEGIN:VEVENT
-UID:1215ce28-d14f-48b2-b21e-ce9433b7e58c
-SEQUENCE:0
-ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261116T033318
-DTSTART;TZID=Asia/Yekaterinburg:20261116T083000
-DTEND;TZID=Asia/Yekaterinburg:20261116T114500
-SUMMARY:Проектно-технологический практикум / Проектирование программных классов / ПТП П-03
-LOCATION:Главный корпус / 310
-DESCRIPTION:Практическое занятие / Проектный семинар\n\nРоль не определена: Володина Татьяна Юрьевна\, Бакановская Людмила Николаевна\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%221215ce28-d14f-48b2-b21e-ce9433b7e58c%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-11-16T08:30:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%221215ce28-d14f-48b2-b21e-ce9433b7e58c%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-11-16T08:30:00.000Z%22%7D\n
-CATEGORIES:Практическое занятие
-CATEGORIES:ПТП
-END:VEVENT
-BEGIN:VEVENT
-UID:21d38188-ca0b-4ed7-a7e3-a897991dea06
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261116T033318
-DTSTART;TZID=Asia/Yekaterinburg:20261121T120500
-DTEND;TZID=Asia/Yekaterinburg:20261121T153500
-SUMMARY:Проектно-технологический практикум / Проектирование программных классов / ПТП П-03
-LOCATION:Главный корпус / 305
-DESCRIPTION:Практическое занятие / Проектный семинар\n\nРоль не определена: Володина Татьяна Юрьевна\, Бакановская Людмила Николаевна\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2221d38188-ca0b-4ed7-a7e3-a897991dea06%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-11-21T12:05:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%2221d38188-ca0b-4ed7-a7e3-a897991dea06%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-11-21T12:05:00.000Z%22%7D\n
-CATEGORIES:Практическое занятие
-CATEGORIES:ПТП
-END:VEVENT
-BEGIN:VEVENT
-UID:6722b3a1-0975-4784-bdb9-338a4730a049
-SEQUENCE:0
-ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261116T033318
-DTSTART;TZID=Asia/Yekaterinburg:20261119T083000
-DTEND;TZID=Asia/Yekaterinburg:20261119T114500
-SUMMARY:Создание и сопровождение информационных ресурсов (Модуль 1) / Инструментальные системы моделирования требований к информационным ресурсам / СиС ИР 1 П-04
-LOCATION:Главный корпус / 204
-DESCRIPTION:Практическое занятие / Мастерская\n\nПреподаватель: Шапцев Валерий Алексеевич\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%226722b3a1-0975-4784-bdb9-338a4730a049%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-11-19T08:30:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%226722b3a1-0975-4784-bdb9-338a4730a049%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-11-19T08:30:00.000Z%22%7D\n
-CATEGORIES:Практическое занятие
-CATEGORIES:СиС ИР 1
-END:VEVENT
-BEGIN:VEVENT
-UID:902f94ff-46a2-4782-89c3-cee5a6311bcb
-SEQUENCE:0
-ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261116T033318
-DTSTART;TZID=Asia/Yekaterinburg:20261120T083000
-DTEND;TZID=Asia/Yekaterinburg:20261120T114500
-SUMMARY:Создание и сопровождение информационных ресурсов (Модуль 1) / Разработка технических спецификаций на информационные ресурсы / СиС ИР 1 Л-02
-LOCATION:Главный корпус / 201
-DESCRIPTION:Лекционное занятие / Информационная лекция\n\nПреподаватель: Шапцев Валерий Алексеевич\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22902f94ff-46a2-4782-89c3-cee5a6311bcb%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-11-20T08:30:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22902f94ff-46a2-4782-89c3-cee5a6311bcb%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-11-20T08:30:00.000Z%22%7D\n
-CATEGORIES:Лекционное занятие
-CATEGORIES:СиС ИР 1
-END:VEVENT
-BEGIN:VEVENT
-UID:99c150a7-13ee-416c-b0ed-e426e7f469f7
-SEQUENCE:0
-ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261116T033318
-DTSTART;TZID=Asia/Yekaterinburg:20261121T083000
-DTEND;TZID=Asia/Yekaterinburg:20261121T114500
-SUMMARY:Мобильная разработка (Модуль 2) / Хранение данных / МобР-2 Л-02
-LOCATION:Главный корпус / 517
-DESCRIPTION:Лекционное занятие / Информационная лекция\n\nПреподаватель: Карякин Иван Юрьевич\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2299c150a7-13ee-416c-b0ed-e426e7f469f7%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-11-21T08:30:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%2299c150a7-13ee-416c-b0ed-e426e7f469f7%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-11-21T08:30:00.000Z%22%7D\n
-CATEGORIES:Лекционное занятие
-CATEGORIES:МобР-2
-END:VEVENT
-BEGIN:VEVENT
-UID:ccf0727a-2254-46bf-b487-6aa655cb94d2
-SEQUENCE:0
-ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261116T033318
+DTSTAMP;TZID=Asia/Yekaterinburg:20261119T032219
 DTSTART;TZID=Asia/Yekaterinburg:20261117T140500
 DTEND;TZID=Asia/Yekaterinburg:20261117T172500
 SUMMARY:Методы искусственного интеллекта. Модуль 2 / Лингвистические и мультимодальные нейросетевые модели / МИИ Л-02
@@ -157,5 +79,57 @@ LOCATION:Главный корпус / 201
 DESCRIPTION:Лекционное занятие / Информационная лекция\n\nПреподаватель: Глухих Игорь Николаевич\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22ccf0727a-2254-46bf-b487-6aa655cb94d2%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-11-17T14:05:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22ccf0727a-2254-46bf-b487-6aa655cb94d2%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-11-17T14:05:00.000Z%22%7D\n
 CATEGORIES:Лекционное занятие
 CATEGORIES:МИИ
+END:VEVENT
+BEGIN:VEVENT
+UID:24220b9a-67e5-4d57-aa01-8f323bcc4ebe
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20261119T032226
+DTSTART;TZID=Asia/Yekaterinburg:20261125T083000
+DTEND;TZID=Asia/Yekaterinburg:20261125T114500
+SUMMARY:Методы искусственного интеллекта. Модуль 2 / Решение прикладных задач / МИИ П-06
+LOCATION:Главный корпус / 215
+DESCRIPTION:Практическое занятие / Исследовательский семинар\n\nПреподаватель: Дербина Кристина Андреевна\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2224220b9a-67e5-4d57-aa01-8f323bcc4ebe%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-11-25T08:30:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%2224220b9a-67e5-4d57-aa01-8f323bcc4ebe%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-11-25T08:30:00.000Z%22%7D\n
+CATEGORIES:Практическое занятие
+CATEGORIES:МИИ
+END:VEVENT
+BEGIN:VEVENT
+UID:28ab6cef-2774-4b32-bad7-d034ee61f61b
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20261119T032226
+DTSTART;TZID=Asia/Yekaterinburg:20261126T083000
+DTEND;TZID=Asia/Yekaterinburg:20261126T114500
+SUMMARY:Создание и сопровождение информационных ресурсов (Модуль 1) / Инструментальные системы моделирования требований к информационным ресурсам / СиС ИР 1 П-04
+LOCATION:Главный корпус / 204
+DESCRIPTION:Практическое занятие / Мастерская\n\nПреподаватель: Шапцев Валерий Алексеевич\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2228ab6cef-2774-4b32-bad7-d034ee61f61b%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-11-26T08:30:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%2228ab6cef-2774-4b32-bad7-d034ee61f61b%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-11-26T08:30:00.000Z%22%7D\n
+CATEGORIES:Практическое занятие
+CATEGORIES:СиС ИР 1
+END:VEVENT
+BEGIN:VEVENT
+UID:b1b640a1-8609-446e-95f6-40efc33e27c2
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20261119T032226
+DTSTART;TZID=Asia/Yekaterinburg:20261128T120500
+DTEND;TZID=Asia/Yekaterinburg:20261128T153500
+SUMMARY:Мобильная разработка (Модуль 2) / Хранение данных. Preferences. SQLite / МобР-2 П-06
+LOCATION:Главный корпус / 407
+DESCRIPTION:Практическое занятие / Проектный семинар\n\nПреподаватель: Пирогов Михаил Андреевич\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22b1b640a1-8609-446e-95f6-40efc33e27c2%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-11-28T12:05:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22b1b640a1-8609-446e-95f6-40efc33e27c2%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-11-28T12:05:00.000Z%22%7D\n
+CATEGORIES:Практическое занятие
+CATEGORIES:МобР-2
+END:VEVENT
+BEGIN:VEVENT
+UID:eb1b7937-b1f4-49bc-9532-786b60cef31d
+SEQUENCE:0
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20261119T032226
+DTSTART;TZID=Asia/Yekaterinburg:20261123T083000
+DTEND;TZID=Asia/Yekaterinburg:20261123T114500
+SUMMARY:Проектно-технологический практикум / Проектирование программных классов (часть 2) / ПТП П-03
+LOCATION:Главный корпус / 310
+DESCRIPTION:Практическое занятие / Проектный семинар\n\nРоль не определена: Бакановская Людмила Николаевна\, Володина Татьяна Юрьевна\n\nПосмотреть в Моем расписании: https://utmn.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22eb1b7937-b1f4-49bc-9532-786b60cef31d%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-11-23T08:30:00.000Z%22%7D\nПосмотреть в мобильной версии: https://utmn.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22eb1b7937-b1f4-49bc-9532-786b60cef31d%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-11-23T08:30:00.000Z%22%7D\n
+CATEGORIES:Практическое занятие
+CATEGORIES:ПТП
 END:VEVENT
 END:VCALENDAR
