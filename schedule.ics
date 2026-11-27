@@ -6,7 +6,7 @@ BEGIN:VEVENT
 UID:24220b9a-67e5-4d57-aa01-8f323bcc4ebe
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261126T065243
+DTSTAMP;TZID=Asia/Yekaterinburg:20261127T193126
 DTSTART;TZID=Asia/Yekaterinburg:20261125T083000
 DTEND;TZID=Asia/Yekaterinburg:20261125T114500
 SUMMARY:Методы искусственного интеллекта. Модуль 2 / Решение прикладных задач / МИИ П-06
@@ -17,9 +17,9 @@ CATEGORIES:МИИ
 END:VEVENT
 BEGIN:VEVENT
 UID:28ab6cef-2774-4b32-bad7-d034ee61f61b
-SEQUENCE:0
+SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261126T065243
+DTSTAMP;TZID=Asia/Yekaterinburg:20261127T193126
 DTSTART;TZID=Asia/Yekaterinburg:20261126T083000
 DTEND;TZID=Asia/Yekaterinburg:20261126T114500
 SUMMARY:Создание и сопровождение информационных ресурсов (Модуль 1) / Инструментальные системы моделирования требований к информационным ресурсам / СиС ИР 1 П-04
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 UID:b1b640a1-8609-446e-95f6-40efc33e27c2
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261126T065243
+DTSTAMP;TZID=Asia/Yekaterinburg:20261127T193126
 DTSTART;TZID=Asia/Yekaterinburg:20261128T120500
 DTEND;TZID=Asia/Yekaterinburg:20261128T153500
 SUMMARY:Мобильная разработка (Модуль 2) / Хранение данных. Preferences. SQLite / МобР-2 П-06
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:eb1b7937-b1f4-49bc-9532-786b60cef31d
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261126T065243
+DTSTAMP;TZID=Asia/Yekaterinburg:20261127T193126
 DTSTART;TZID=Asia/Yekaterinburg:20261123T083000
 DTEND;TZID=Asia/Yekaterinburg:20261123T114500
 SUMMARY:Проектно-технологический практикум / Проектирование программных классов (часть 2) / ПТП П-03
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 UID:2765e9c7-6c46-4b08-8337-6ee50f66ea75
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261126T065248
+DTSTAMP;TZID=Asia/Yekaterinburg:20261127T193131
 DTSTART;TZID=Asia/Yekaterinburg:20261130T120500
 DTEND;TZID=Asia/Yekaterinburg:20261130T153500
 SUMMARY:Проектно-технологический практикум / Проектирование программных классов (часть 2) / ПТП П-03
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 UID:79c9de8c-2098-4f13-8325-b1a5bb5ca68f
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261126T065248
+DTSTAMP;TZID=Asia/Yekaterinburg:20261127T193131
 DTSTART;TZID=Asia/Yekaterinburg:20261204T083000
 DTEND;TZID=Asia/Yekaterinburg:20261204T114500
 SUMMARY:Создание и сопровождение информационных ресурсов (Модуль 1) / Анализ и формализация требований к информационным ресурсам / СиС ИР 1 Л-02
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 UID:870cf6e8-6e8c-499e-a15d-80fdd630ae55
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261126T065248
+DTSTAMP;TZID=Asia/Yekaterinburg:20261127T193131
 DTSTART;TZID=Asia/Yekaterinburg:20261203T155500
 DTEND;TZID=Asia/Yekaterinburg:20261203T191000
 SUMMARY:Создание и сопровождение информационных ресурсов (Модуль 1) / Инструментальные системы моделирования требований к информационным ресурсам / СиС ИР 1 П-04
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 UID:b8bac9ef-df08-4c9d-98e4-b8102200df7a
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261126T065248
+DTSTAMP;TZID=Asia/Yekaterinburg:20261127T193131
 DTSTART;TZID=Asia/Yekaterinburg:20261203T120500
 DTEND;TZID=Asia/Yekaterinburg:20261203T153500
 SUMMARY:Проектно-технологический практикум / Проектирование программных классов (часть 2) / ПТП П-03
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 UID:c689ae91-b9c7-449a-9669-1feb4bea52f1
 SEQUENCE:0
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261126T065248
+DTSTAMP;TZID=Asia/Yekaterinburg:20261127T193131
 DTSTART;TZID=Asia/Yekaterinburg:20261201T155500
 DTEND;TZID=Asia/Yekaterinburg:20261201T191000
 SUMMARY:Методы искусственного интеллекта. Модуль 2 / Интеллектуальные системы\, основанные на знаниях / МИИ Л-02
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 UID:f6dd250c-46b2-4de7-a899-64b8ba894bca
 SEQUENCE:1
 ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
-DTSTAMP;TZID=Asia/Yekaterinburg:20261126T065248
+DTSTAMP;TZID=Asia/Yekaterinburg:20261127T193131
 DTSTART;TZID=Asia/Yekaterinburg:20261205T083000
 DTEND;TZID=Asia/Yekaterinburg:20261205T114500
 SUMMARY:Мобильная разработка (Модуль 2) / LayoutInflater / МобР-2 Л-02
